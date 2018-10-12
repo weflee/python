@@ -1,3 +1,1 @@
-jfsfj
-fjfklfjf
-fhflfj
+print('helloworld!')
