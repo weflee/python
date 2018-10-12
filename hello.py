@@ -1,1 +1,2 @@
-123455
+import os
+print os.system
